@@ -1,6 +1,14 @@
 
 
-#This simple program can convert english numbers to Ijaw.
+#This is a simple python module that can be imported to convert numbers to ijaw and make a list of num
+# example: import Mamu
+# Mamu.kala(4)
+#output:Nein
+#Mamu.lis(0,3)
+#output:keni
+#       mamu
+#       taru
+
 
 def kala(x):
 
