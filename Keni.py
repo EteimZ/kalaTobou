@@ -1,5 +1,3 @@
-from math import *
-
 #This simple program can convert english numbers to Ijaw.
 print("kalaTobou(version: Keni)")
 
